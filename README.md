@@ -25,4 +25,4 @@
 * *Notes*: Other notes.
 
 
-Please note that this table is incomplete may have errors in my interpretation of each of these works. Feel free to submit any corrections of just make a fuss. If this table is helpful for your research, feel free to buy me a kombucha. 
+Please note that this table is incomplete and may contain errors. Feel free to submit any corrections or just make a fuss. If this table is helpful for your research, feel free to buy me a kombucha. 
