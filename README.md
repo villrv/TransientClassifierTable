@@ -1,6 +1,6 @@
 |Name |	Author | Public? |	Goal |	Training Set |	Feature extraction |	Selection bias correction |	Classifier |	Redshft? |	Notes |
 | --- | ------ | ------- | ----- | ------------- | ------------------- | ---------------------------- | ---------- | ----------- | ------ |
-| | [Ishida & Souza (2013)](https://academic.oup.com/mnras/article/430/1/509/985966) |	No |	Ia-nonIa|	SPCC |	kernel PCA | None	| No |  |
+| | [Ishida & Souza (2013)](https://academic.oup.com/mnras/article/430/1/509/985966) |	No |	Ia-nonIa|	SPCC |	kernel PCA | None	| Nearest Neighbor | No  | |
 | PELICAN	| [Pasquet et al (2019)](https://www.aanda.org/articles/aa/pdf/2019/07/aa34473-18.pdf) |	No 	|	Ia-nonIa |	SPCC/SDSS	|	denoising autoencoder	|	"Contrastive CNN"	|CNN |	Yes/ No | |
 | | [Lochner et al (2016)](https://arxiv.org/pdf/1603.00882.pdf) | No | Ia, II, Ibc|SPCC|Various (Best: SALT2/wavelet)|None|Various (Best: boosted decision trees)|No | |
 | PSNID	| [Link Missing](https://researchportal.port.ac.uk/portal/files/1299008/0004_637X_738_2_162.pdf) |Yes (SNANA)|Ia, II, Ibc|SDSS|None|None?|Template matching|no| |
