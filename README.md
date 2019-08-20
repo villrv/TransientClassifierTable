@@ -1,9 +1,9 @@
 |Name |	Author | Public? |	Goal |	Training Set |	Feature extraction |	Selection bias correction |	Classifier |	Redshft? |	Notes |
 | --- | ------ | ------- | ----- | ------------- | ------------------- | ---------------------------- | ---------- | ----------- | ------ |
-| PELICAN	| [Pasquet et al (2019)](https://www.aanda.org/articles/aa/pdf/2019/07/aa34473-18.pdf) |	No 	|	Ia-nonIa |	SPCC/SDSS	|	denoising autoencoder	|	"Contrastive CNN"	|CNN |	yes/ no | |
+| | [Ishida & Souza (2013)](https://academic.oup.com/mnras/article/430/1/509/985966) |	No |	Ia-nonIa|	SPCC |	kernel PCA | None	| No |  |
+| PELICAN	| [Pasquet et al (2019)](https://www.aanda.org/articles/aa/pdf/2019/07/aa34473-18.pdf) |	No 	|	Ia-nonIa |	SPCC/SDSS	|	denoising autoencoder	|	"Contrastive CNN"	|CNN |	Yes/ No | |
 | | [Lochner et al (2016)](https://arxiv.org/pdf/1603.00882.pdf) | No | Ia, II, Ibc|SPCC|Various (Best: SALT2/wavelet)|None|Various (Best: boosted decision trees)|No | |
 | PSNID	| [Link Missing](https://researchportal.port.ac.uk/portal/files/1299008/0004_637X_738_2_162.pdf) |Yes (SNANA)|Ia, II, Ibc|SDSS|None|None?|Template matching|no| |
-| | [Ishida & Souza (2013)](https://academic.oup.com/mnras/article/430/1/509/985966) |	No |	Ia-nonIa|	SPCC |	kernel PCA | no	| |  |
 | | [Jones + (2017)](https://archive.stsci.edu/prepds/ps1cosmo/) | No? | Ia-nonIa | PS1-MDS	| SALT2 | 	BEAMS	| BEAMS | 	no	| [BEAMS reference](https://arxiv.org/abs/1111.5328) | 
 |SuperNNova | [Moller & Boissiere (2019)](hi)	Yes	General SN	SPCC	LC itself	None	RNN	yes/no		 |
 |avocado| [Boon (2019)](https://arxiv.org/pdf/1907.04690.pdf) |Yes |General Transients | plasticc|hand-selected; Gaussian Process	|uniform redshift resampling | boosted RF | no	| 
