@@ -1,7 +1,7 @@
 |Name |	Author | Public? |	Goal |	Training Set |	Feature extraction |	Selection bias correction |	Classifier |	Redshft? |	Notes |	link |
 | --- | ------ | ------- | ----- | ------------- | ------------------- | ---------------------------- | ---------- | ----------- | ------ | ---- |
 | PELICAN	| Pasquet et al (2019) | No | Ia-nonIa |	SPCC/SDSS	| denoising autoencoder |	"Contrastive CNN" |	CNN |	yes/ no | | https://www.aanda.org/articles/aa/pdf/2019/07/aa34473-18.pdf |
-| | Lochner et al (2016) | Ia, II, Ibc|SPCC|Various (Best: SALT2/wavelet)|None|Various (Best: boosted decision trees)|no | | https://arxiv.org/pdf/1603.00882.pdf |
+| | Lochner et al (2016) | No | Ia, II, Ibc|SPCC|Various (Best: SALT2/wavelet)|None|Various (Best: boosted decision trees)|No | | https://arxiv.org/pdf/1603.00882.pdf |
 | PSNID	| |Yes (SNANA)|Ia, II, Ibc|SDSS|None|None?|Template matching|no| | https://researchportal.port.ac.uk/portal/files/1299008/0004_637X_738_2_162.pdf |
 | | Ishida & Souza (2013) |	No |	Ia-nonIa|	SPCC |	kernel PCA | no	| | https://academic.oup.com/mnras/article/430/1/509/985966 |
 | | Jones + (2017) | No? | Ia-nonIa | PS1-MDS	| SALT2 | 	BEAMS	| BEAMS | 	no	| BEAMS: https://arxiv.org/abs/1111.5328 | https://archive.stsci.edu/prepds/ps1cosmo/ |
